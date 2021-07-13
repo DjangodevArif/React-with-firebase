@@ -1,0 +1,19 @@
+.login{
+    display: grid;
+    place-items: center;
+    height: 50vh;
+    width: 100vw;
+}
+.login__container{
+    /* display: flex;
+    flex-direction: column; */
+    /* justify-content: space-between; */
+    /* align-items: center; */
+    margin: 10px 0px;
+}
+.login__container >img{
+    object-fit: contain;
+}
+.login__text{
+    margin-top: 10px;
+}
